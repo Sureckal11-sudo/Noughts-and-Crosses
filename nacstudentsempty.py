@@ -10,8 +10,9 @@ from mlforkidsnumbers import MLforKidsNumbers
 
 
 project = MLforKidsNumbers(
-    # keys and URLs specific to your project will be added here
-)
+    key="43487c20-f6c8-11ee-b24a-bfccddc19te725208319-6864-4de4-94d7-114ece46745a")
+
+
 
 
 
